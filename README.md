@@ -1,6 +1,6 @@
 # RepositorioTeste
 
-Atividades
+Atividades!
 
 1 - Crie um FORK deste repositório!
 
