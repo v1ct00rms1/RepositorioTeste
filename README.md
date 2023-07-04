@@ -2,7 +2,7 @@
 
 Atividades
 
-1 - Crie um FORK deste repositório
+1 - Crie um FORK deste repositório!
 
 2 - Crie uma Branch com seu nome
 
